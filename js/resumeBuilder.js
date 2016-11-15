@@ -120,7 +120,7 @@ var education = {
     "onlineCourses": [{
         "school": "Udacity",
         "title": "Object-Oriented Javascript",
-        "dates": "On going",
+        "dates": "sept 2016 - Nov 2016",
         "url": "https://www.udacity.com/course/ud015"
     }, {
         "school": "Udacity",
@@ -140,7 +140,7 @@ var education = {
     }, {
         "school": "Udacity",
         "title": "Web Development",
-        "dates": "On going",
+        "dates": "sept 2016 - Nov 2016",
         "url": "https://www.udacity.com/course/cs253"
     }]
 };
